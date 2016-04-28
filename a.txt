@@ -9,3 +9,4 @@ master7777777
 delete from book where id=1;
 github update 01
 local new object
+local server delete now*****
